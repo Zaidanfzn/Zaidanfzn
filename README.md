@@ -4,7 +4,7 @@
 <!-- [![profile views](https://komarev.com/ghpvc/?username=zaidanfzn)](https://github.com/zaidanfzn) -->
 ---
 <br>
-<div align = "center"><img src="https://github.com/Zaidanfzn/zaidanfzn14/blob/main/img/animation-sleeping.gif"/ width="90%" height="350px"></div><br>
+<div align = "center"><img src="https://github.com/Zaidanfzn/Zaidanfzn/blob/main/img/animation-sleeping.gif"/ width="90%" height="350px"></div><br>
 
 > ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,py)](https://skillicons.dev)
