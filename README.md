@@ -1,4 +1,4 @@
-<span style="color:#00000">
+<span style="color:#000000">
   
 <h1 align="center">Hi 👋, I'm Zaidan</h1>
 
