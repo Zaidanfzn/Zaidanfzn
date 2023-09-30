@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zaidan</h1>
+<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>
 
-<!--
-**Zaidanfzn/Zaidanfzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![profile views](https://komarev.com/ghpvc/?username=zaidanfzn)](https://github.com/zaidanfzn) -->
+---
+<br>
+<div align = "center"><img src="https://github.com/Zaidanfzn/zaidanfzn14/blob/main/img/animation-sleeping.gif"/ width="90%" height="350px"></div><br>
 
-Here are some ideas to get you started:
+> ## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,py)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- > ## Contact with me
+[instagram](https://www.instagram.com/zaidnfz_/)
+[linkedln](https://linkedin.com/in/zaidanfzn)
+[whatsapp](https://wa.me/6282123870889) -->
