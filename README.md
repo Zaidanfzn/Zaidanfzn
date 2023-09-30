@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zaidan</h1>
-<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>
+<h1 align="center">Hi 👋, I'm Zaidan</h1> `#00000`
+<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3> `#00000`
 
 <!-- [![profile views](https://komarev.com/ghpvc/?username=zaidanfzn)](https://github.com/zaidanfzn) -->
 ---
