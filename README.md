@@ -1,6 +1,4 @@
-<span style="color:#000000">
-  
-<h1 align="center">Hi 👋, I'm Zaidan</h1>
+<h1 style="color:black" align="center">Hi 👋, I'm Zaidan</h1>
 
 *<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>*
 
@@ -16,5 +14,3 @@
 [instagram](https://www.instagram.com/zaidnfz_/)
 [linkedln](https://linkedin.com/in/zaidanfzn)
 [whatsapp](https://wa.me/6282123870889) -->
-
-</span>
