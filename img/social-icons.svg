@@ -1,7 +1,6 @@
 <!-- <svg width="320" height="445" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <foreignObject width="320" height="445">
-        <div xmlns="http://www.w3.org/1999/xhtml" class="container"> -->
-<svg>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container"> 
 <foreignObject width="100%">
 <style>
     .all .button{
@@ -75,4 +74,4 @@
 </div>
 </div>
 </foreignObject>
-</svg>
+</svg> -->
