@@ -1,7 +1,6 @@
-<h1 style="color:black" align="center">Hi 👋, I'm Zaidan</h1>
+<h1 align="center">Hi 👋, I'm Zaidan</h1>
 
-*<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>*
-
+**_<h4 align="center">Undergraduate Student in Engineering Physics at Telkom University</h4>_**
 <!-- [![profile views](https://komarev.com/ghpvc/?username=zaidanfzn)](https://github.com/zaidanfzn) -->
 ---
 <br>
@@ -9,7 +8,6 @@
 
 > ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,py)](https://skillicons.dev)
-
 <!-- > ## Contact with me
 [instagram](https://www.instagram.com/zaidnfz_/)
 [linkedln](https://linkedin.com/in/zaidanfzn)
