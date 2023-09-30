@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zaidan</h1> `#00000`
-<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3> `#00000`
+<span style="color:#00000">
+  
+<h1 align="center">Hi 👋, I'm Zaidan</h1>
+
+*<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>*
 
 <!-- [![profile views](https://komarev.com/ghpvc/?username=zaidanfzn)](https://github.com/zaidanfzn) -->
 ---
@@ -13,3 +16,5 @@
 [instagram](https://www.instagram.com/zaidnfz_/)
 [linkedln](https://linkedin.com/in/zaidanfzn)
 [whatsapp](https://wa.me/6282123870889) -->
+
+</span>
