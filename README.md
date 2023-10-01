@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E2436&text=Welcome!&fontAlign=49&fontAlignY=35&fontSize=40&fontColor=EFEFEF&animation=twinkling&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1E2436&text=Welcome!&fontAlign=49&fontAlignY=35&fontSize=40&fontColor=EFEFEF&animation=twinkling&height=150&section=header) 
 <h1 align="center">Hi 👋, I'm Zaidan</h1>
 
 **_<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>_**
@@ -8,7 +8,9 @@
 <div align = "center"><img src="https://github.com/Zaidanfzn/Zaidanfzn/blob/main/img/animation-sleeping.gif"/ width="90%" height="350px"></div><br>
 
 > ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,py)](https://skillicons.dev) <br>
+
+<br>
 
 > ## Contact with Me
 <div style="display:flex; flex-direction:row;">
