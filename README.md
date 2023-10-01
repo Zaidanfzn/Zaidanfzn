@@ -9,11 +9,6 @@
 
 > ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,py)](https://skillicons.dev)
-<!-- > ## Contact with me
-[instagram](https://www.instagram.com/zaidnfz_/)
-[linkedln](https://linkedin.com/in/zaidanfzn)
-[whatsapp](https://wa.me/6282123870889) -->
-<br>
 
 > ## Contact with Me
 <div style="display:flex; flex-direction:row;">
