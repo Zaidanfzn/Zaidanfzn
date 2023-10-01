@@ -14,10 +14,10 @@
 
 > ## Contact with Me
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:zaidanfauzan.edu@gmail.com">
+    <a href="mailto:zaidanfauzan.edu@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Gmail-E34133?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/zaidnfz_/">
+    <a href="https://www.instagram.com/zaidnfz_/" target="blank">
         <img src="https://img.shields.io/badge/Instagram-DB4669?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://www.linkedin.com/in/zaidanfzn/">
