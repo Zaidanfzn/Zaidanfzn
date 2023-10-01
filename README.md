@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E2436&text=Welcome!&fontAlign=48&fontAlignY=35&fontSize=40&fontColor=EFEFEF&animation=twinkling&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1E2436&text=Welcome!&fontAlign=49&fontAlignY=35&fontSize=40&fontColor=EFEFEF&animation=twinkling&height=150&section=header)
 <h1 align="center">Hi 👋, I'm Zaidan</h1>
 
 **_<h3 align="center">Undergraduate Student in Engineering Physics at Telkom University</h3>_**
