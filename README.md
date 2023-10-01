@@ -25,4 +25,4 @@
     </a>
 </div><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1E2436&height=150&section=footer)
