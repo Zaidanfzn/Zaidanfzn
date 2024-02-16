@@ -8,7 +8,7 @@
 <div align = "center"><img src="https://github.com/Zaidanfzn/Zaidanfzn/blob/main/img/animation-sleeping.gif"/ width="90%" height="350px"></div><br>
 
 > ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,tailwind,bootstrap,js)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,html,css,tailwind,bootstrap,js,py)](https://skillicons.dev) <br>
 
 <br>
 
